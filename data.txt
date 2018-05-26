@@ -1,0 +1,42 @@
+
+28*8
+
+the CPU processing time is 30.677999 ms
+no shared mem Time elapsed on GPU 0.955680 ms.
+with shared mem Time elapsed on GPU 0.700736 ms.
+Others Time elapsed on GPU 1.596352 ms.
+
+
+
+Input trans Time elapsed on GPU 1.017792 ms.
+filter trans Time elapsed on GPU 0.089888 ms.
+
+
+512
+
+the CPU processing time is 85.020996 ms
+No shared mem Time elapsed on GPU 2.450816 ms.
+with shared mem Time elapsed on GPU 1.973184 ms.
+Others Time elapsed on GPU 5.647232 ms.
+
+
+1024
+
+the CPU processing time is 453.036011 ms
+No shared mem Time elapsed on GPU 7.005536 ms.
+with shared mem Time elapsed on GPU 5.624448 ms.
+Others Time elapsed on GPU 20.558657 ms.
+
+
+2048
+
+the CPU processing time is 2056.914062 ms
+No shared mem Time elapsed on GPU 24.388512 ms.
+with shared mem Time elapsed on GPU 21.199680 ms.
+Others Time elapsed on GPU 80.033661 ms.
+
+
+
+
+
+
